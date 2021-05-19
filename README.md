@@ -4,7 +4,7 @@ Take the notes of lectures and meetings as a screenshot stored in word document.
 Python 3.X Required.<br />
 Modules Required - <br />
      1) PIL   <br />
-     2) Docx  <br />
+     2) Docx - pip install python-docx(for python3) <br />
 Step 1 - Open the python file in Visual Studio or any code editor. <br />
 Step 2 - Run the python file. <br />
 Commands -<br />
